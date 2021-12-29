@@ -5,4 +5,7 @@ I will build a landing page, according with Odin Project on the Fundamentals cou
 
 I choose to build a landing page about my friend art work, and who knows if she can actually use my landing page to start showing her work!
 
+I used HTML and CSS, with features of CSS like flexbox for example.
+
+
 :)
